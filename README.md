@@ -1,1 +1,0 @@
-# template-botkit-webex-watson
